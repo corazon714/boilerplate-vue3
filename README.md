@@ -2,4 +2,4 @@
 
 ---
 
-Setted up with auto-importing NaıveUI, tailwindcss, vue-router and pinia.
+Setted up with auto-importing NaiveUI, tailwindcss, vue-router and pinia.
