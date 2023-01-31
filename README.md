@@ -2,4 +2,4 @@
 
 ---
 
-bom!
+Setted up with auto-importing NaıveUI, tailwindcss, vue-router and pinia.
